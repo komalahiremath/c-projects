@@ -1,4 +1,4 @@
-# C-beginner_projects
+# C-projects
 
 
 * Repo containing C programs covering all aspects of language with neat comments.
